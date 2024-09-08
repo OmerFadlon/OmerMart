@@ -18,7 +18,10 @@ Activity Management: Monitor sales, restocking, and other key activities.
 **Technologies Used:**
 
 Python: Core programming language.
+
 SQLite: Database for data storage and retrieval.
+
 Object-Oriented Design: Structure and organization of the codebase.
+
 DAO Pattern: Used for data access and management.
 
