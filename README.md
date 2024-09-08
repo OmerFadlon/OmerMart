@@ -6,9 +6,13 @@ It enables efficient management of employees, suppliers, products, branches, and
 **Features:**
 
 Employee Management: Add, update, and track employee records.
+
 Supplier Management: Handle supplier details and transactions.
+
 Product Management: Manage inventory, pricing, and product details.
+
 Branch Management: Oversee multiple store locations.
+
 Activity Management: Monitor sales, restocking, and other key activities.
 
 **Technologies Used:**
